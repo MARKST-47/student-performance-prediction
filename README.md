@@ -22,8 +22,8 @@ This project aims to predict students' performance in exams based on various fea
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/student-exam-performance-prediction.git
-   cd student-exam-performance-prediction
+   git clone https://github.com/MARKST-47/student-performance-prediction.git
+   cd student-performance-prediction
 
 2. **Create and activate a virtual environment:**
 
