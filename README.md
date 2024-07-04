@@ -1,6 +1,6 @@
 # Student Exam Performance Prediction
 
-This repository contains a machine learning project that predicts student exam performance using MLOps pipelines and a web interface built with Flask. The project includes exploratory data analysis (EDA), model training, and deployment processes, all documented in Jupyter notebooks.
+This repository contains a machine learning project that predicts a student's math exam performance using MLOps pipelines and a web interface built with Flask. The project includes exploratory data analysis (EDA), model training, and deployment processes, all documented in Jupyter notebooks or Python files.
 
 ## Table of Contents
 
