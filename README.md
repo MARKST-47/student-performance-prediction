@@ -23,11 +23,13 @@ This project aims to predict students' performance in exams based on various fea
 1. **Clone the repository:**
    
    git clone https://github.com/MARKST-47/student-performance-prediction.git
+
    cd student-performance-prediction
 
 2. **Create and activate a virtual environment:**
 
 python -m venv venv
+
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install the required packages:**
@@ -53,7 +55,9 @@ The MLOps pipeline, which includes steps for data versioning, model training, ev
 
 ## Web Interface:
 
-The web interface is built using Flask and allows users to input features and get predictions for their exam performance. The web application files are located in the app directory:
+The web interface is built using Flask and allows users to input features and get predictions for their exam performance. 
+
+The web application files are located in the app directory:
 
 **app.py: The main Flask application.**
 
@@ -65,6 +69,7 @@ templates/home.html: The predict page, where user input is taken.
 Start the Flask web application:
 
 cd app
+
 python app.py
 
 Open a web browser and go to:
